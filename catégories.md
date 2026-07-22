@@ -21,4 +21,4 @@ Catégorie B:
 
 
 Catégorie C:
-Être
+Être vivant intelligent 
