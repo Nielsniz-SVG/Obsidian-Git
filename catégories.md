@@ -25,4 +25,5 @@ Catégorie C:
 > [!WARNING]
 > Une AUD de catégorie C fait s'auto-détruire la dimension au bout de 48 heures.
 
-> [!]
+> [!EXAMPLE]
+> Un humain qui voyaeg
