@@ -32,4 +32,7 @@ Catégorie C:
 Catégorie D:
 Zone entière qui se retrouve projeter dans une dimension sui n'est pas la sienne.
 > [!WARNING]
+> Une AUD de catégorie D fait s'auto-détruire la dimension au bout de 24 heures.
+
+> [!EXAMPLE]
 > 
