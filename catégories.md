@@ -35,4 +35,6 @@ Zone entière qui se retrouve projeter dans une dimension sui n'est pas la sienn
 > Une AUD de catégorie D fait s'auto-détruire la dimension au bout de 24 heures.
 
 > [!EXAMPLE]
-> 
+> Un magasin téléporté dans une autre dimension.
+
+
