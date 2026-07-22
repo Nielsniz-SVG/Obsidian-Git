@@ -5,7 +5,7 @@ Les anomalies sont classés en 4 catégories:
 Catégorie A:
 Objet/corp non-vivant qui se retrouve projeter dans une autre dimension que la sienne.
 > [!WARNING]
-> Une AUD de catégorie A fait s'auto-détruire la dimension au bout de 3 jours.
+> Une AUD de catégorie A fait s'auto-détruire la dimension au bout de 1 semaine.
 
 > [!EXAMPLE]
 > Un vase qui à été transporté dans une dimension 
