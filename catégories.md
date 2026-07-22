@@ -17,4 +17,4 @@ Catégorie B:
 > Une AUD de catégorie B fait s'auto-détruire la dimension au bout de 3 jours.
 
 > [!EXAMPLE]
-> 
+> Un chat qui à traversé un portail 
