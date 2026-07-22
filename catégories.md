@@ -12,7 +12,7 @@ Objet/corp non-vivant qui se retrouve projeter dans une autre dimension que la s
 
 
 Catégorie B:
-Être vivant non-inteligent qyi se retrouve projeter dans une dimension sui n'est pas la sienne.
+Être vivant non-inteligent qui se retrouve projeter dans une dimension sui n'est pas la sienne.
 > [!WARNING]
 > Une AUD de catégorie B fait s'auto-détruire la dimension au bout de 3 jours.
 
