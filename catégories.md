@@ -22,4 +22,7 @@ Catégorie B:
 
 Catégorie C:
 Être vivant intelligent qui se retrouve projeter dans une dimension sui n'est pas la sienne.
+> [!WARNING]
+> Une AUD de catégorie C fait s'auto-détruire la dimension au bout de 48 heures.
+
 > [!]
