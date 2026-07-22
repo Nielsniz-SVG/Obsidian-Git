@@ -10,3 +10,6 @@ Objet/corp non-vivant qui se retrouve projeter dans une autre dimension que la s
 > [!EXAMPLE]
 > Un vase qui à été transporté dans une dimension 
 
+
+Catégorie B:
+Être vivant non-inteligent
