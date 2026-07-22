@@ -26,4 +26,10 @@ Catégorie C:
 > Une AUD de catégorie C fait s'auto-détruire la dimension au bout de 48 heures.
 
 > [!EXAMPLE]
-> Un humain qui voyaeg
+> Un humain qui voyage dans les dimensions.
+
+
+Catégorie D:
+Zone entière qui se retrouve projeter dans une dimension sui n'est pas la sienne.
+> [!WARNING]
+> 
