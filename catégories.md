@@ -8,3 +8,5 @@ Objet/corp non-vivant qui se retrouve projeter dans une autre dimension que la s
 > Si une AUD de catégorie A fait s'auto-détruire la dimension au bout de 3 jours.
 
 > [!EXAMPLE]
+> Un vase qui à été transporté dans une dimension 
+
