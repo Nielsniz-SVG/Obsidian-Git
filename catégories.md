@@ -39,4 +39,4 @@ Zone entière qui se retrouve projeter dans une dimension sui n'est pas la sienn
 
 
 > [!NOTE]- Notes complémentaires 
-> 
+> Plus il une AUD est complex 
